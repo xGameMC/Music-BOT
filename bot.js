@@ -267,7 +267,7 @@ client.on("message", message => {
   const embed = new Discord.RichEmbed() //by ,$ ReBeL ء , 🔕#4777 'CODES SERVER'
       .setColor("#000000")//by ,$ ReBeL ء , 🔕#4777 'CODES SERVER'
       .setDescription(`
-${prefix}play ⇏ لتشغيل أغنية برآبط أو بأسم
+${prefix}kep ⇏ لتشغيل أغنية برآبط أو بأسم
 ${prefix}skip ⇏ لتجآوز الأغنية الحآلية
 ${prefix}pause ⇏ إيقآف الأغنية مؤقتا
 ${prefix}resume ⇏ لموآصلة الإغنية بعد إيقآفهآ مؤقتا
